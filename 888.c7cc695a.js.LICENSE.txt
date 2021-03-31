@@ -21,10 +21,6 @@ PERFORMANCE OF THIS SOFTWARE.
 
 /*! @license DOMPurify | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/2.2.2/LICENSE */
 
-/**
- * @license Asciidoctor.js 2.2.1 | MIT | https://github.com/asciidoctor/asciidoctor.js
- */
-
 /**!
  * @fileOverview Kickass library to create and place poppers near their reference elements.
  * @version 1.16.1
